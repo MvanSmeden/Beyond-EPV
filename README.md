@@ -1,2 +1,2 @@
 # Beyond-EPV
-Simulation codes from "Beyond EPV" projects
+Simulation codes from "Beyond EPV" project
